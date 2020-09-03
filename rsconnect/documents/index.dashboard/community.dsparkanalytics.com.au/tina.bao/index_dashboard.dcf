@@ -1,0 +1,13 @@
+name: index_dashboard
+title: index dashboard
+username: tina.bao
+account: tina.bao
+server: community.dsparkanalytics.com.au
+hostUrl: https://community.dsparkanalytics.com.au/__api__
+appId: 61
+bundleId: 458
+url: https://community.dsparkanalytics.com.au/content/61/
+when: 1594273781.5647
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|app_data.RData|test_tina.R|travel_distance.RData|data/.DS_Store|data/indexData.sqlite|data/indexData.sqlite.zip|data/indexData2.sqlite
